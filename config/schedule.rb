@@ -21,5 +21,5 @@
 
 set :output, "cron_log.log"
 every 1.hour do
-  command "ruby trader.rb"
+  command "ruby scraping2.rb"
 end
