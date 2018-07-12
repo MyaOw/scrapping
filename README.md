@@ -1,1 +1,1 @@
-# scrapping
+Travail de @FabriceS69 @Jihane et @Pauline
